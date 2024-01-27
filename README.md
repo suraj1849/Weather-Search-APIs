@@ -54,6 +54,6 @@ Special thanks to [Weather API Provider](https://weather-api-provider.com) for p
 
 ## Contact 📧
 
-Have questions or suggestions? Feel free to contact us at sahilkarmkar14@gmail.com.
+Have questions or suggestions? Feel free to contact us at surajpatil110110@gmail.com.
 
 Happy coding! 🌈
