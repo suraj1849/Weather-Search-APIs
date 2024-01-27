@@ -18,7 +18,7 @@ The Weather Search Application is a user-friendly, web-based tool that allows us
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/14-sahil/PRODIGY_WD_05.git
+   git clone https://github.com/suraj1849/PRODIGY_WD_05.git
    ```
 
 2. **Open `index.html`:**
