@@ -10,9 +10,6 @@ The Weather Search Application is a user-friendly, web-based tool that allows us
 
 ## Technologies Used 💻
 
-- HTML
-- CSS
-- JavaScript
 
 ## How to Use 🤔
 
