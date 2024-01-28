@@ -9,7 +9,9 @@ The Weather Search Application is a user-friendly, web-based tool that allows us
 - **Responsive Design:** Access the application on various devices, including desktops, tablets, and mobile phones.
 
 ## Technologies Used 💻
-
+- HTML
+- CSS
+- JavaScript
 
 
 ## How to Use 🤔
